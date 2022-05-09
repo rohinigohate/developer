@@ -1,0 +1,10 @@
+Hi {NAME},
+
+Greetings of the day!!!
+You have successfully register for home loan.
+Your application is under process for approval. You will receive an email after getting approval.
+
+
+
+Thanks & Regards,
+My Home Finance Care
